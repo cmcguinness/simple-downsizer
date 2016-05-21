@@ -26,7 +26,7 @@ The default value is 80.  If the image is not a jpeg, the value is ignored.
 This only does one file at a time; the assumption is that you will wrap this in a bash script or similar
 for bulk conversions.
 
-This code is released to the public domain under creative commons zero licensing.
+This code is released under creative commons zero licensing.
 
 
 ## Test case
