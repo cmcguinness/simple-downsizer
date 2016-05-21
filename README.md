@@ -33,4 +33,7 @@ This code is released to the public domain under creative commons zero licensing
 
 The script downsizer_test.py does a very simple test of the code.
 
+## Requirements
+
+OpenCV2/3, Numpy
 
